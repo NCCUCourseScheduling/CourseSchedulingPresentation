@@ -102,14 +102,14 @@ text2vec-base-chinese：CoSENT model
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50"  v-click="1">
         <path d="M5 25 L45 25 M35 20 L45 25 L35 30" stroke="currentcolor" stroke-width="4" fill="none"/>
       </svg>
-      <div class="h-15 w-20 p-2 rounded-lg bg-red flex items-center justify-center text-center" v-click="1">FAISS</div>
+      <div class="h-15 w-20 p-2 rounded-lg bg-[#3399ff] flex items-center justify-center text-center" v-click="1">FAISS</div>
     </div>
     <div class="flex gap-4 items-center">
-      <div class="h-15 w-40 p-2 rounded-lg bg-[#3399ff] flex items-center justify-center text-center">原始資料</div>
+      <div class="h-15 w-40 p-2 rounded-lg bg-[#33ccff] flex items-center justify-center text-center">原始資料</div>
       <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50" v-click="1">
         <path d="M5 25 L45 25 M35 20 L45 25 L35 30" stroke="currentcolor" stroke-width="4" fill="none"/>
       </svg>
-      <div class="h-15 w-20 max-w-30 p-2 rounded-lg bg-red flex items-center justify-center text-center" v-click="1">BM25</div>
+      <div class="h-15 w-20 max-w-30 p-2 rounded-lg bg-[#3399ff] flex items-center justify-center text-center" v-click="1">BM25</div>
     </div>
   </div>
   <svg xmlns="http://www.w3.org/2000/svg" width="100" height="150" viewBox="0 0 100 150" v-click="2">
